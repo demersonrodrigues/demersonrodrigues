@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Seja Bem-vindo! :raised_back_of_hand:
 ### Quem sou eu :man_technologist::
 
-Me chamo Demerson, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBAIANO. Atualmente estou no 5º semestre e sou bolsista de Iniciação Científica e estou desenvolvendo o projeto "Uma Interface Avatar para Dispositivos Robóticos Socialmente Assistivos: Uma Aplicação para Libras"</i>
+Me chamo Demerson, sou formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBAIANO. Atualmente estou como Desenvolvedor Junior Fullstack atuando a cerca de 2 anos nesta função.</i>
 
 ### Contato e redes sociais:
 
