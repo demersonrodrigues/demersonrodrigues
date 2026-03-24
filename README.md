@@ -1,41 +1,55 @@
-## Olá, tudo bem? Seja Bem-vindo! :raised_back_of_hand:
-### Quem sou eu :man_technologist::
+## 👨‍💻 Sobre mim
 
-Me chamo Demerson, sou formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBAIANO. Atualmente estou como Desenvolvedor Junior Fullstack atuando a cerca de 2 anos nesta função.</i>
+Sou **Demerson Rodrigues**, Desenvolvedor **Full Stack**, formado em **Análise e Desenvolvimento de Sistemas** pelo IFBaiano - _campus_ Catu, com experiência no desenvolvimento de aplicações web e mobile, atuando desde a interface até a camada de dados e APIs.
 
-### Contato e redes sociais:
+Tenho foco em escrever código limpo, bem estruturado e alinhado às boas práticas, sempre buscando clareza, organização e evolução contínua. Possuo experiência com projetos reais, trabalhando com integração de sistemas, persistência de dados, documentação de APIs e colaboração em equipe ágil.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/demerson-rodrigues)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/in/demerson_r)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/demersona.rodrigues@gmail.com)</br>
+---
 
-![demersonrodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=demersonrodrigues&show_icons=true&theme=radical)
+## 🛠️ Competências Técnicas
 
-### Tecnologias que utilizo 📗:
+### Front-end
+- HTML5 | CSS3
+- JavaScript (ES6+) | TypeScript
+- React
+- React Native
+- Tailwind CSS
+- Consumo de APIs REST
+- Noções de UI/UX aplicadas à usabilidade e experiência do usuário
 
-<div style="display: inline_block"></br>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></br>
-</div>
+### Back-end
 
-### Demais tecnologias que conheço:
+#### APIs e Regras de Negócio
+- Node.js
+- NestJS
+- Desenvolvimento de APIs REST
+- Criação e uso de DTOs
+- Tratamento e transformação de dados entre banco e API
+- Validação de dados e organização de regras de negócio
 
-<div style="display: inline_block"></b>
-  <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></br>
-</div>
+#### Persistência de Dados
+- MySQL
+- PostgreSQL
+- Prisma ORM
+- Modelagem de banco de dados
+- Relacionamentos, consultas e filtros
 
-### Tecnologias que estou em aprendizado 📙:
+#### Documentação
+- Documentação de APIs com Swagger (OpenAPI)
+- Definição de contratos e padronização de endpoints
 
-<div style="display: inline_block"></br>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></br>
-</div>
-  
+---
+
+## ⚙️ Ferramentas e Metodologias
+
+- Git e GitHub (controle de versão e colaboração)
+- Fluxo de trabalho com Scrum (ambiente ágil)
+- Organização e manutenção de código
+- Trabalho colaborativo em equipe
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco evoluir constantemente como desenvolvedor, aprofundando meus conhecimentos em **arquitetura de software**, **backend**, **decisões técnicas** e **boas práticas**, contribuindo de forma consistente para projetos que exigem qualidade, organização e visão de longo prazo.
+``
